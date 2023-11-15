@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consequências de Vazamento de Dados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Consequências de Vazamento de Dados</h2>
+
+    <ul>
+        <li>Perda de Confiança do Cliente: A confiança dos clientes pode ser abalada, resultando em perda de negócios.</li>
+        <li>Danos à Reputação: Um vazamento pode causar danos significativos à reputação da empresa.</li>
+        <li>Impacto Financeiro: Custos associados à investigação, notificação, recuperação e ações judiciais.</li>
+        <li>Risco de Roubo de Identidade: Os dados vazados podem ser usados para roubo de identidade e fraude.</li>
+        <li>Sanções Regulatórias: Violações de leis de proteção de dados podem resultar em multas e sanções.</li>
+        <li>Interrupção Operacional: A necessidade de lidar com um vazamento pode interromper as operações normais.</li>
+        <li>Concorrência Desleal: Competidores podem explorar a situação para ganhar vantagem.</li>
+        <li>Processos Legais: A empresa pode enfrentar processos judiciais de clientes afetados.</li>
+        <li>Diminuição do Valor de Mercado: Ações e valor de mercado podem ser afetados negativamente.</li>
+        <li>Exposição de Informações Sensíveis: Informações confidenciais podem ser expostas, comprometendo a segurança.</li>
+    </ul>
+
+</body>
+</html>
