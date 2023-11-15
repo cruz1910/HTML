@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passos para Lidar com Violação de Dados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Passos para Lidar com Violação de Dados</h2>
+
+    <ol>
+        <li>Identificar a Violação: Determine a natureza e a extensão da violação de dados.</li>
+        <li>Isolar a Brecha: Isolate sistemas afetados para evitar mais comprometimentos.</li>
+        <li>Notificar Autoridades: Cumpra as leis e regulamentações locais notificando as autoridades apropriadas.</li>
+        <li>Comunicar Interessados: Informe os afetados pela violação e forneça informações relevantes.</li>
+        <li>Preservar Evidências: Preserve evidências para uma investigação posterior, se necessário.</li>
+        <li>Corrigir Vulnerabilidades: Identifique e corrija as vulnerabilidades que levaram à violação.</li>
+        <li>Reforçar Medidas de Segurança: Reforce as medidas de segurança para prevenir futuras violações.</li>
+        <li>Revisar Políticas de Segurança: Avalie e atualize as políticas de segurança da informação.</li>
+        <li>Conduzir Treinamento: Treine a equipe para aumentar a conscientização e a capacidade de resposta.</li>
+        <li>Revisar Procedimentos de Resposta: Avalie e ajuste os procedimentos de resposta a incidentes.</li>
+    </ol>
+
+</body>
+</html>
