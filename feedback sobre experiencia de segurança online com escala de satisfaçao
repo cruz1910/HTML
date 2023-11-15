@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Feedback de Segurança Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1e6bb8;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Feedback de Segurança Online</h2>
+
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label>Avalie sua experiência de segurança online:</label>
+        <div>
+            <input type="radio" id="satisfacao5" name="satisfacao" value="5">
+            <label for="satisfacao5">5 - Muito Satisfeito</label>
+        </div>
+        <div>
+            <input type="radio" id="satisfacao4" name="satisfacao" value="4">
+            <label for="satisfacao4">4 - Satisfeito</label>
+        </div>
+        <div>
+            <input type="radio" id="satisfacao3" name="satisfacao" value="3">
+            <label for="satisfacao3">3 - Neutro</label>
+        </div>
+        <div>
+            <input type="radio" id="satisfacao2" name="satisfacao" value="2">
+            <label for="satisfacao2">2 - Insatisfeito</label>
+        </div>
+        <div>
+            <input type="radio" id="satisfacao1" name="satisfacao" value="1">
+            <label for="satisfacao1">1 - Muito Insatisfeito</label>
+        </div>
+
+        <label for="comentario">Comentários adicionais:</label>
+        <textarea id="comentario" name="comentario" rows="4"></textarea>
+
+        <button type="submit">Enviar Feedback</button>
+    </form>
+
+</body>
+</html>
