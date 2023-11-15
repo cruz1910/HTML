@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos Comuns de Ataques Cibernéticos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Tipos Comuns de Ataques Cibernéticos</h2>
+
+    <ul>
+        <li><strong>Phishing:</strong> Ataque que envolve o envio de mensagens falsas, muitas vezes por e-mail, para enganar as pessoas e obter informações confidenciais.</li>
+        <li><strong>Ataque de Negociação de Homem no Meio (Man-in-the-Middle - MitM):</strong> Um atacante intercepta e potencialmente altera a comunicação entre duas partes sem que elas saibam.</li>
+        <li><strong>Ataque de Negação de Serviço (DoS):</strong> Um atacante sobrecarrega um sistema ou rede, tornando os serviços indisponíveis para usuários legítimos.</li>
+    </ul>
+
+</body>
+</html>
