@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Princípios Fundamentais da Segurança Cibernética</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Princípios Fundamentais da Segurança Cibernética</h2>
+
+    <ol>
+        <li><strong>Confidencialidade:</strong> Proteger a informação contra o acesso não autorizado.</li>
+        <li><strong>Integridade:</strong> Garantir que a informação seja precisa, completa e não seja alterada por partes não autorizadas.</li>
+        <li><strong>Disponibilidade:</strong> Garantir que os recursos e serviços estejam disponíveis quando necessário, evitando interrupções não planejadas.</li>
+        <li><strong>Autenticidade:</strong> Verificar a identidade de usuários, sistemas e dispositivos para prevenir ações não autorizadas.</li>
+        <li><strong>Não Repúdio:</strong> Garantir que as partes envolvidas em uma comunicação ou transação não possam negar a autenticidade de sua participação.</li>
+    </ol>
+
+</body>
+</html>
