@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passos para Criar uma Senha Forte</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Passos para Criar uma Senha Forte</h2>
+
+    <ol>
+        <li>Use uma combinação de letras maiúsculas e minúsculas.</li>
+        <li>Inclua números em sua senha.</li>
+        <li>Adicione caracteres especiais, como !, @, #, $, %, etc.</li>
+        <li>Não use informações pessoais óbvias, como nomes, datas de nascimento, ou palavras comuns.</li>
+        <li>Crie senhas longas para aumentar a complexidade.</li>
+        <li>Evite sequências óbvias, como "123456" ou "password".</li>
+        <li>Não use a mesma senha para várias contas.</li>
+        <li>Atualize suas senhas regularmente.</li>
+        <li>Considere o uso de uma frase ou combinação de palavras que seja fácil de lembrar, mas difícil de adivinhar.</li>
+        <li>Utilize um gerenciador de senhas para armazenar e gerar senhas seguras.</li>
+    </ol>
+
+</body>
+</html>
