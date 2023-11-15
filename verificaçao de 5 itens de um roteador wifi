@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Verificação de Segurança de Roteador Wi-Fi</title>
+</head>
+<body>
+    <h1>Lista de Verificação de Segurança de Roteador Wi-Fi</h1>
+    <ul>
+        <li>Alterar a senha padrão do roteador: Certifique-se de que a senha de administração do roteador não seja a senha padrão fornecida pelo fabricante. Escolha uma senha forte e única.</li>
+        <li>Ativar a criptografia WPA2 ou WPA3: Use uma criptografia forte (WPA2 ou WPA3) para proteger a rede sem fio. Não use WEP, pois é menos seguro.</li>
+        <li>Definir um nome de rede (SSID) único: Evite usar nomes de rede genéricos que identificam o fabricante do roteador. Escolha um nome único para sua rede.</li>
+        <li>Habilitar filtragem de endereço MAC: Configure o roteador para permitir apenas dispositivos com endereços MAC específicos para se conectar à rede. Isso adiciona uma camada extra de segurança.</li>
+        <li>Atualizar o firmware do roteador: Verifique regularmente se há atualizações de firmware do roteador e aplique-as para corrigir vulnerabilidades de segurança.</li>
+    </ul>
+</body>
+</html>
