@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicas para Identificar E-mails de Phishing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Dicas para Identificar E-mails de Phishing</h2>
+
+    <ul id="phishingTips">
+        <!-- A lista será preenchida dinamicamente usando JavaScript -->
+    </ul>
+
+    <script>
+        // Dicas para identificar e-mails de phishing
+        var dicasPhishing = [
+            "Verifique o remetente: Confira o endereço de e-mail do remetente para garantir que seja legítimo.",
+            "Desconfie de URLs suspeitos: Não clique em links suspeitos e verifique a URL antes de clicar.",
+            "Fique atento a erros gramaticais: E-mails de phishing muitas vezes contêm erros de ortografia e gramática.",
+            "Não compartilhe informações pessoais: Instituições legítimas não pedem informações sensíveis por e-mail."
+        ];
+
+        // Preenche a lista não ordenada dinamicamente
+        var listaPhishing = document.getElementById("phishingTips");
+        dicasPhishing.forEach(function(dica) {
+            var listItem = document.createElement("li");
+            listItem.textContent = dica;
+            listaPhishing.appendChild(listItem);
+        });
+    </script>
+
+</body>
+</html>
