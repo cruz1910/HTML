@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pesquisa de Segurança Cibernética</title>
+</head>
+<body>
+    <h2>Pesquisa de Segurança Cibernética</h2>
+    <form action="processar_pesquisa.php" method="post">
+        <p>Quais medidas de segurança cibernética você considera mais eficazes? (Selecione todas as que se aplicam)</p>
+        <input type="checkbox" id="firewall" name="medidas[]" value="firewall">
+        <label for="firewall">Firewall</label><br>
+
+        <input type="checkbox" id="antivirus" name="medidas[]" value="antivirus">
+        <label for="antivirus">Antivírus</label><br>
+
+        <input type="checkbox" id="senhas-fortes" name="medidas[]" value="senhas-fortes">
+        <label for="senhas-fortes">Senhas Fortes</label><br>
+
+        <input type="checkbox" id="autenticao-de-dois-fatores" name="medidas[]" value="autenticacao-de-dois-fatores">
+        <label for="autenticacao-de-dois-fatores">Autenticação de Dois Fatores</label><br>
+
+        <input type="checkbox" id="atualizacoes-de-software" name="medidas[]" value="atualizacoes-de-software">
+        <label for="atualizacoes-de-software">Atualizações de Software</label><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
